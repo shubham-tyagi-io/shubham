@@ -1,2 +1,4 @@
 # shubham-tyagi--portfolio
-This repository contains self projects.
+Contains self projects.
+Basic achitecture -- Front End 
+                      HTML5 + SASS + Vue.js
